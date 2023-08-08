@@ -1,3 +1,1121 @@
 {
-  "post":[]
+  "seller": [
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "shrinivasj40",
+      "repeated-pass": "shrinivasj40",
+      "id": 1
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "shrinivasj40",
+      "repeated-pass": "shrinivasj40",
+      "id": 2
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "as",
+      "repeated-pass": "as",
+      "id": 3
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "asc",
+      "repass": "asc",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "repass": "",
+      "id": 5
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "sdsds",
+      "repass": "sdssds",
+      "id": 6
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "ass",
+      "repass": "asd",
+      "id": 7
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "asd",
+      "repass": "asd",
+      "id": 8
+    },
+    {
+      "name": "Shivani",
+      "email": "shivaniastekar.157@gmail.com",
+      "password": "Shivuj$321",
+      "repass": "Shivuj$321",
+      "id": 9
+    },
+    {
+      "name": "demo",
+      "email": "demo@demo.com",
+      "password": "abc",
+      "repass": "abc",
+      "id": 10
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "aww",
+      "repass": "aww",
+      "id": 11
+    },
+    {
+      "name": "Shivani Ashtekar",
+      "email": "shivaniastekar.157@gmail.com",
+      "password": "abc",
+      "repass": "abc",
+      "id": 12
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivas@gmail.com",
+      "password": "qaz",
+      "repass": "qaz",
+      "id": 13
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 14
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 15
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 16
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 17
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 18
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 19
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 20
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 21
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 22
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 23
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 24
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 25
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 26
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 27
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 28
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrini@gmail.com",
+      "password": "qwe",
+      "repass": "qwe",
+      "id": 29
+    },
+    {
+      "name": "Shivani Ashtekar",
+      "email": "as",
+      "password": "as",
+      "repass": "as",
+      "id": 30
+    }
+  ],
+  "products": [
+    {
+      "productname": "camera",
+      "productid": "1",
+      "price": "35000",
+      "productimg": "https://rukminim2.flixcart.com/image/200/200/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70",
+      "id": 1,
+      "catergory": "Electronics"
+    },
+    {
+      "productname": "lens",
+      "productid": "3",
+      "price": "45000",
+      "productimg": "https://rukminim2.flixcart.com/image/200/200/xif0q/monitor/x/a/z/-original-imagr73bhwneffva.jpeg?q=70",
+      "id": 2,
+      "catergory": "Fashion"
+    },
+    {
+      "productname": "iphone",
+      "productid": "4",
+      "price": "35000",
+      "productimg": "https://rukminim2.flixcart.com/image/312/312/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
+      "id": 5,
+      "catergory": "Fashion"
+    },
+    {
+      "productname": "camera",
+      "productid": "1",
+      "price": "35000",
+      "productimg": "https://rukminim2.flixcart.com/image/312/312/ktaeqvk0/tripod/tripod/z/c/u/buff42-buy-hot-selling-tripod-stand-with-clip-bag-tripod-stand-original-imag6z5ksvejg6ph.jpeg?q=70",
+      "id": 1,
+      "catergory": "Electronics"
+    },
+    {
+      "productname": "lens",
+      "productid": "3",
+      "price": "45000",
+      "productimg": "https://rukminim1.flixcart.com/flap/170/170/image/20c224cd52ae7a87.jpg?q=80",
+      "id": 2,
+      "catergory": "Fashion"
+    },
+    {
+      "productname": "iphone",
+      "productid": "4",
+      "price": "35000",
+      "productimg": "https://rukminim1.flixcart.com/image/170/170/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=80",
+      "id": 5,
+      "catergory": "Electronics"
+    },
+    {
+      "productname": "hp",
+      "productid": "1",
+      "price": "35000",
+      "productimg": "https://m.media-amazon.com/images/I/81W33YnXpBL.jpg",
+      "sellerId": 7,
+      "id": 7
+    },
+    {
+      "productname": "iphone 11",
+      "productid": "111",
+      "price": "35000",
+      "productimg": "https://m.media-amazon.com/images/I/81W33YnXpBL.jpg",
+      "sellerId": 12,
+      "id": 8
+    },
+    {
+      "productname": "iphone",
+      "productid": "1",
+      "price": "35000",
+      "productimg": "https://www.sherrihill.com/dw/image/v2/BDBR_PRD/on/demandware.static/-/Sites-master-catalog-sherrihill/default/dw427e809c/images/Sherri-Hill-55345-fuchsia-51753.jpg?sw=630&sh=966",
+      "sellerId": 30,
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "name": "as",
+      "email": "shivaniastekar.157@gmail.com",
+      "password": "as",
+      "repass": "ass",
+      "id": 1
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "qwe",
+      "repass": "qwed",
+      "id": 2
+    },
+    {
+      "name": "shrinivas",
+      "email": "shivaniastekar.157@gmail.com",
+      "password": "as",
+      "repass": "as",
+      "id": 3
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "was",
+      "repass": "was",
+      "id": 4
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "as",
+      "repass": "as",
+      "id": 5
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "as",
+      "repass": "as",
+      "id": 6
+    },
+    {
+      "name": "shrinivas",
+      "email": "as",
+      "password": "as",
+      "repass": "as",
+      "id": 7
+    },
+    {
+      "name": "shrinivas",
+      "email": "shrinivasj40@gmail.com",
+      "password": "ass",
+      "repass": "ass",
+      "id": 8
+    },
+    {
+      "name": "Anil shah",
+      "email": "anilsconcept@gmail.com",
+      "password": "7415435889aA@",
+      "repass": "7415435889",
+      "id": 9
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "firstName": "shrinivas",
+      "lastName": "jadhav",
+      "email": "shrinivasj40@gmail.com",
+      "phoneNo": "8308160880",
+      "address": "Flat no 503 sentosa serene",
+      "address2": "",
+      "pincode": "411033",
+      "city": "Thathawade",
+      "same-address": true,
+      "save-info": true,
+      "cart": [
+        {
+          "productname": "camera",
+          "productid": "1",
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 2,
+          "userId": 8,
+          "productId": 1,
+          "id": 15
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 17
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 18
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 19
+        },
+        {
+          "id": 22,
+          "productname": "iphone",
+          "productid": "4",
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 5
+        },
+        {
+          "productname": "Product 10",
+          "productid": "BCD890",
+          "price": 12.99,
+          "productimg": "https://dummyimage.com/300x300/000000/ffffff&text=Product+10",
+          "quatity": 0,
+          "userId": 8,
+          "productId": 21,
+          "id": 23
+        }
+      ],
+      "postOffice": [
+        {
+          "Name": "Chinchwadgaon",
+          "Description": null,
+          "BranchType": "Sub Post Office",
+          "DeliveryStatus": "Delivery",
+          "Circle": "Maharashtra",
+          "District": "Pune",
+          "Division": "Pune City East",
+          "Region": "Pune",
+          "Block": "Pune City",
+          "State": "Maharashtra",
+          "Country": "India",
+          "Pincode": "411033"
+        },
+        {
+          "Name": "Jambhe",
+          "Description": null,
+          "BranchType": "Branch Post Office",
+          "DeliveryStatus": "Delivery",
+          "Circle": "Maharashtra",
+          "District": "Pune",
+          "Division": "Pune City East",
+          "Region": "Pune",
+          "Block": "Mulshi",
+          "State": "Maharashtra",
+          "Country": "India",
+          "Pincode": "411033"
+        },
+        {
+          "Name": "Punawale",
+          "Description": null,
+          "BranchType": "Branch Post Office",
+          "DeliveryStatus": "Delivery",
+          "Circle": "Maharashtra",
+          "District": "Pune",
+          "Division": "Pune City East",
+          "Region": "Pune",
+          "Block": "Pune City",
+          "State": "Maharashtra",
+          "Country": "India",
+          "Pincode": "411033"
+        },
+        {
+          "Name": "Thathawade",
+          "Description": null,
+          "BranchType": "Branch Post Office",
+          "DeliveryStatus": "Delivery",
+          "Circle": "Maharashtra",
+          "District": "Pune",
+          "Division": "Pune City East",
+          "Region": "Pune",
+          "Block": "Pune City",
+          "State": "Maharashtra",
+          "Country": "India",
+          "Pincode": "411033"
+        },
+        {
+          "Name": "Thergaon",
+          "Description": null,
+          "BranchType": "Branch Post Office",
+          "DeliveryStatus": "Non-Delivery",
+          "Circle": "Maharashtra",
+          "District": "Pune",
+          "Division": "Pune City East",
+          "Region": "Pune",
+          "Block": "Pune City",
+          "State": "Maharashtra",
+          "Country": "India",
+          "Pincode": "411033"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "firstName": "Shivani",
+      "lastName": "ashtekar",
+      "email": "shrinivasj40@gmail.com",
+      "phoneNo": "8308160880",
+      "address": "Flat no 503 sentosa serene",
+      "address2": "",
+      "pincode": "411033",
+      "city": "Thathawade",
+      "same-address": true,
+      "save-info": true,
+      "cart": [
+        {
+          "productname": "camera",
+          "productid": "1",
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 2,
+          "userId": 8,
+          "productId": 1,
+          "id": 15
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 17
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 18
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 19
+        },
+        {
+          "id": 22,
+          "productname": "iphone",
+          "productid": "4",
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 5
+        },
+        {
+          "productname": "Product 10",
+          "productid": "BCD890",
+          "price": 12.99,
+          "productimg": "https://dummyimage.com/300x300/000000/ffffff&text=Product+10",
+          "quatity": 0,
+          "userId": 8,
+          "productId": 21,
+          "id": 23
+        }
+      ],
+      "state": "Maharashtra",
+      "country": "India",
+      "id": 2
+    },
+    {
+      "firstName": "shrinivas",
+      "lastName": "jadhav",
+      "email": "shrinivasj40@gmail.com",
+      "phoneNo": "8308160880",
+      "address": "Flat no 503 sentosa serene",
+      "address2": "",
+      "pincode": "410401",
+      "city": "Lonavala",
+      "same-address": true,
+      "save-info": true,
+      "cart": [
+        {
+          "productname": "camera",
+          "productid": "1",
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 2,
+          "userId": 8,
+          "productId": 1,
+          "id": 15
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 17
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 18
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 19
+        },
+        {
+          "id": 22,
+          "productname": "iphone",
+          "productid": "4",
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 5
+        },
+        {
+          "productname": "Product 10",
+          "productid": "BCD890",
+          "price": 12.99,
+          "productimg": "https://dummyimage.com/300x300/000000/ffffff&text=Product+10",
+          "quatity": 0,
+          "userId": 8,
+          "productId": 21,
+          "id": 23
+        },
+        {
+          "productname": "Product 10",
+          "productid": "BCD890",
+          "price": 12.99,
+          "productimg": "https://dummyimage.com/300x300/000000/ffffff&text=Product+10",
+          "quatity": 0,
+          "userId": 8,
+          "productId": 21,
+          "id": 24
+        },
+        {
+          "productname": "Product 10",
+          "productid": "BCD890",
+          "price": 12.99,
+          "productimg": "https://dummyimage.com/300x300/000000/ffffff&text=Product+10",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 21,
+          "id": 25
+        }
+      ],
+      "state": "Maharashtra",
+      "country": "India",
+      "id": 4
+    },
+    {
+      "firstName": "shrinivas",
+      "lastName": "jadhav",
+      "email": "shrinivasj40@gmail.com",
+      "phoneNo": "8308160880",
+      "address": "Flat no 503 sentosa serene",
+      "address2": "",
+      "pincode": "410401",
+      "city": "Lonavala",
+      "same-address": true,
+      "save-info": true,
+      "cart": [
+        {
+          "productname": "camera",
+          "productid": "1",
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 2,
+          "userId": 8,
+          "productId": 1,
+          "id": 15
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 17
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 18
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 19
+        },
+        {
+          "id": 22,
+          "productname": "iphone",
+          "productid": "4",
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 5
+        },
+        {
+          "productname": "Product 10",
+          "productid": "BCD890",
+          "price": 12.99,
+          "productimg": "https://dummyimage.com/300x300/000000/ffffff&text=Product+10",
+          "quatity": 0,
+          "userId": 8,
+          "productId": 21,
+          "id": 23
+        },
+        {
+          "productname": "Product 10",
+          "productid": "BCD890",
+          "price": 12.99,
+          "productimg": "https://dummyimage.com/300x300/000000/ffffff&text=Product+10",
+          "quatity": 0,
+          "userId": 8,
+          "productId": 21,
+          "id": 24
+        },
+        {
+          "productname": "Product 10",
+          "productid": "BCD890",
+          "price": 12.99,
+          "productimg": "https://dummyimage.com/300x300/000000/ffffff&text=Product+10",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 21,
+          "id": 25
+        }
+      ],
+      "state": "Maharashtra",
+      "country": "India",
+      "id": 5
+    },
+    {
+      "firstName": "shrinivas",
+      "lastName": "jadhav",
+      "email": "shrinivasj40@gmail.com",
+      "phoneNo": "8308160880",
+      "address": "Flat no 503 sentosa serene",
+      "address2": "",
+      "pincode": "486887",
+      "city": "Kachnimamla",
+      "same-address": true,
+      "save-info": true,
+      "cart": [
+        {
+          "productname": "camera",
+          "productid": "1",
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 2,
+          "userId": 8,
+          "productId": 1,
+          "id": 15
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 17
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 18
+        },
+        {
+          "productname": "lens",
+          "productid": "3",
+          "price": "45000",
+          "productimg": "https://images.unsplash.com/photo-1554941068-d6fc6f388f72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 2,
+          "id": 19
+        },
+        {
+          "id": 22,
+          "productname": "iphone",
+          "productid": "4",
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 5
+        },
+        {
+          "productname": "Product 10",
+          "productid": "BCD890",
+          "price": 12.99,
+          "productimg": "https://dummyimage.com/300x300/000000/ffffff&text=Product+10",
+          "quatity": 0,
+          "userId": 8,
+          "productId": 21,
+          "id": 23
+        },
+        {
+          "productname": "Product 10",
+          "productid": "BCD890",
+          "price": 12.99,
+          "productimg": "https://dummyimage.com/300x300/000000/ffffff&text=Product+10",
+          "quatity": 0,
+          "userId": 8,
+          "productId": 21,
+          "id": 24
+        },
+        {
+          "productname": "Product 10",
+          "productid": "BCD890",
+          "price": 12.99,
+          "productimg": "https://dummyimage.com/300x300/000000/ffffff&text=Product+10",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 21,
+          "id": 25
+        }
+      ],
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "id": 6
+    },
+    {
+      "firstName": "Shivani",
+      "lastName": "ashtekar",
+      "email": "shrinivasj40@gmail.com",
+      "phoneNo": "8308160880",
+      "address": "Flat no 503 sentosa serene",
+      "address2": "",
+      "pincode": "410401",
+      "city": "Lonavala Bazar",
+      "same-address": true,
+      "save-info": true,
+      "cart": [
+        {
+          "productname": "iphone",
+          "productid": 5,
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+          "catergory": "Electronics",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 5,
+          "id": 1
+        }
+      ],
+      "state": "Maharashtra",
+      "country": "India",
+      "id": 7
+    },
+    {
+      "firstName": "Shivani",
+      "lastName": "ashtekar",
+      "email": "shivaniastekar.157@gmail.com",
+      "phoneNo": "8308160880",
+      "address": "Flat no 503 sentosa serene",
+      "address2": "",
+      "pincode": "411033",
+      "city": "Thathawade",
+      "same-address": true,
+      "save-info": true,
+      "cart": [
+        {
+          "productname": "iphone",
+          "productid": 5,
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+          "catergory": "Electronics",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 5,
+          "id": 1
+        }
+      ],
+      "state": "Maharashtra",
+      "country": "India",
+      "id": 8
+    },
+    {
+      "firstName": "shrinivas",
+      "lastName": "jadhav",
+      "email": "shrinivasj40@gmail.com",
+      "phoneNo": "8308160880",
+      "address": "Flat no 503 sentosa serene",
+      "address2": "",
+      "pincode": "411033",
+      "city": "Thathawade",
+      "same-address": true,
+      "save-info": true,
+      "cart": [
+        {
+          "productname": "camera",
+          "productid": 1,
+          "price": "35000",
+          "productimg": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/IN/OHL/GW/Post/PD23/Unrec/3000x1200_1_2x._CB599887378_.jpg",
+          "catergory": "Electronics",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 1,
+          "id": 1
+        }
+      ],
+      "state": "Maharashtra",
+      "country": "India",
+      "id": 9
+    },
+    {
+      "firstName": "Shivani",
+      "lastName": "ashtekar",
+      "email": "shrinivasj40@gmail.com",
+      "phoneNo": "8308160880",
+      "address": "Flat no 503 sentosa serene",
+      "address2": "",
+      "pincode": "411033",
+      "city": "Thathawade",
+      "same-address": true,
+      "save-info": true,
+      "cart": [
+        {
+          "productname": "iphone",
+          "productid": 5,
+          "price": "35000",
+          "productimg": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+          "catergory": "Electronics",
+          "quatity": 1,
+          "userId": 8,
+          "productId": 5,
+          "id": 2
+        }
+      ],
+      "state": "Maharashtra",
+      "country": "India",
+      "id": 10
+    },
+    {
+      "firstName": "shrinivas",
+      "lastName": "jadhav",
+      "email": "shrinivasj40@gmail.com",
+      "phoneNo": "8308160880",
+      "address": "Flat no 503 sentosa serene",
+      "address2": "",
+      "pincode": "411033",
+      "city": "Thathawade",
+      "same-address": true,
+      "save-info": true,
+      "cart": [
+        {
+          "productname": "camera",
+          "productid": 1,
+          "price": "35000",
+          "productimg": "https://rukminim2.flixcart.com/image/200/200/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70",
+          "catergory": "Electronics",
+          "quatity": "1",
+          "userId": 8,
+          "productId": 1,
+          "id": 1
+        },
+        {
+          "productname": "iphone",
+          "productid": 5,
+          "price": "35000",
+          "productimg": "https://rukminim2.flixcart.com/image/312/312/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
+          "catergory": "Electronics",
+          "quatity": "1",
+          "userId": 8,
+          "productId": 5,
+          "id": 2
+        }
+      ],
+      "state": "Maharashtra",
+      "country": "India",
+      "id": 11
+    },
+    {
+      "firstName": "shrinivas",
+      "lastName": "jadhav",
+      "email": "shrinivasj40@gmail.com",
+      "phoneNo": "8308160880",
+      "address": "Flat no 503 sentosa serene",
+      "address2": "",
+      "pincode": "410505",
+      "city": "Pait",
+      "same-address": true,
+      "save-info": true,
+      "cart": [
+        {
+          "productname": "camera",
+          "price": "35000",
+          "productimg": "https://rukminim2.flixcart.com/image/200/200/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70",
+          "catergory": "Electronics",
+          "quatity": "1",
+          "userId": 8,
+          "id": 2
+        },
+        {
+          "productname": "camera",
+          "productid": 1,
+          "price": "35000",
+          "productimg": "https://rukminim2.flixcart.com/image/200/200/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70",
+          "catergory": "Electronics",
+          "quatity": "1",
+          "userId": 8,
+          "productId": 1,
+          "id": 3
+        }
+      ],
+      "state": "Maharashtra",
+      "country": "India",
+      "id": 12
+    }
+  ],
+  "brand": [
+    {
+      "id": "1",
+      "category": "Electronics",
+      "name": "Paytm",
+      "logo": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "2",
+      "category": "Food",
+      "name": "Zomato",
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAmVBMVEXiN0T////jPUniMkDhKzriNULhMD7gHjDhJjbgGy7mW2ThKDjgIjPhLTzgGS3gITLjQU3ump/98/T75uf87u/0vsHumZ7sjZL++fr64OLvoKXmXGX41NblTFfqgIbsiY/zuLvoanLqeYDxrLDlU131xcj30NLpdXznZG364eLysLT0vL/obnbwpqrtkpf2yszfByLeAA3eAAw0gAv7AAAKL0lEQVR4nO2d6XbiuhJGbSRZNp5ImGwzBIgJhDQkfd7/4Y4GD+Upw7ort7ty9P1qbMvSLpWqSqIXsWw7ycajn6lxlti2ZafUZ9bPFPNpalsJJX96IN8oQhMr8//0KL5VfmaNf6qLarHcGv3pMXyzRoYQvQwhfhlC/DKE+GUI8csQ4pchxC9DiF+GEL8MIX4ZQvwyhPhlCPHLEOKXIcQvQ4hfhhC/DCF+GUL8MoT4ZQjxyxDilyHEL0OIX4YQvwwhfhlC/DKE+GUI8csQ4pchxC9DiF+GEL8MIX4ZQvwyhPhlCPHLEOKXIcQvQ/i3yfny7wWhIiSu9zD6KiIeQka98S6xg6+2w0LocOtuatv21PtqSxyETnR4spWefuYckr1daud+tTEKQvdSES7oVxujIORpRXhwvtr47yJkzBEirYTAwgrQ3nz5JxD/B0JGnDB0Bnush8kcSpuZmoXtK/IXDgOPbs6nw6+V5bnwteRXTRh00yGhbsx54Ib9mbKPkLiu71OhsJT84PsuWOWMcne1XT4cxjyGr2ZEcFPf5VFJQGJyWCy2pG4cepPt3eIUgCXluNEqe52VHLP5OSoYnSB+yyrA2W8uVQdU5keru/k6TZ92y5HX58I9hGR/3D1es8Xttix1uy2y6+PupRwTc627am2sl241VjbJV6ft4nJME5tKRMbP6yIK8uKRaPusr9x4hbwSubypNFe/WOnsn9ZpfS+ZKpU5Q4zj8R60OXjdeewhpHf2gJK4eILsmtcfouLNwbq+Kv3Uocfq81EBhZM6bCwUBPO2077etnLWadZ361UTEn5t3ViPOtPYQ+ju+l4qda+Nzg9tg9uvXCMGr/W1CbPCDbCwvRKO5+5hM+XJfi+f0N4ZGsxVmYZuZp07Sd5G7CGE89DUjCsvu/TcWutqKniChE7eeObiW+6hceUhfK+/+5g1XlhrK9v5+95WE/Ihode1DCSM5r33LkHHS8mkOdfrIGwN6iLnIlwO9SdA+HPfjVxQ0H3fHdt+9j4k5EMd2lNB6PXNYNmrFdeLzA55y/3SaNRqM5dLjbGh/o6uFXUWhJTIGWQz1GpJPyAcbipLJrodurmWEwygkt/tyX7+pz0hR5VCuJ742fx2Wq22oNXUY25fV7PIYvGgp91HHxCGgwxXz2LtWQDaiLAR1ZFlumo/sL61r7woQumms2wTudQRyZTX7ZKI5O0m6kWxFQy5ktAv531C/3Gg4YuwDa+Dv51swwmMA3fCO7z642snRL52PO5RpwtrevJolcl4HT4522R3wC7p7U7q4LAJBM7pHsbs5v6jS0ivT8fjfD7fCYHYb78KwIZJJ5SRN4Ah0jCz6o+yz/U5h10LzfMz+LQMVZcshlYHTsRF7eSDuHCNZHVFHSsAll6/EUbhwKYc8vRl/CBwlTgBw1vLcgG++EHan4I4KLKlA4cvQmXk8OZifIhIBILRGZKJqlvUuQ4L64wiwyIB3l5YpGFJWxXqHkw58QeEpYgDAKciN4kisL4wU+u54S2UhQ8Q5ygecY/wyoI3tkI2K12T+NwbnU/b7WE/eateMvOaU2rvi1xHF/W1q/JJH9Y+jdOqYUIGa42Zqq4hwJ2OyTC1iCZwDd/LWYc89lpaxbsHTxR+6a0ewXPVA2uZYymozCbF0OFbNU7DtptPETL4lmSkjAcnpNioRQ3TwaJNhzQPrkM5QOYAYuVOJOqvS4uQ4QI/L9wPbhifdW5wYLH0KUIWQcfe6PUCqp3S/JCQMZjjU9k1I3DAckpgsLpIAliKt6T8BFi6PGiDy70InA3CyWcII7h+xmHHdNr8FgvAYy7jIB+o8wYYJnTHDlhWMnDQZnBq6NDygnLTREECuenV0ij96CcII1jS/yrKIGj+uTYdAwXQjMO4k6jdBgwTqZoBuB0Smw0yBh3N0nU6BUaShSD06jLRweV+0u7lg9V636hM+wk9uO86lAn0A+d4CsCpn30M2h1nylBwWfmMxdUMTR+Ix+OYe3UvcnMFzVoetMEtVZFwYB5rnqn2EsawvFpWz8PzkoLQB8VTRqH36FgLY5MO9aA2FwVkvdt+jIrDkDodqu0o9OryoA1aaaUjHtwQZY3Su4/QhZVpVhcIcIp0RWlFILSMCeTV3gM3Pzqs83pZiWQQlQM7vlW9VxP0LLuGXl0etME51HZrFFt5Y4fYQ+iDqRJlSX0DvkZHGgcEEpGeYbLQETsGq0qXCGBZXfx6H1MlaVY3UWcV7kvdoDxog76vNtHwzLioRd4hpDD8vfzDKxEY+hNZ41gwpQjfgMlCTT3ciuhqEVppGVZ5elqNyq/LFbU/jusuEm0j2kjvc2mGxhbz7oP9YfPk4WmdCj2n0+ks2TvQ2ZexxTwYokMGN3Oq4GrEJn16BJfVilQuWBESUHGqRACt9kZIGIQZa/gkcUTNAJN369y0Tdg+eYCvYnCF29vIhbWgKA9hstDxDGYpvVOCy8phtbtZeu2QAACpwAL9/HGy2R5lMuCwYt5EEwjY/rs5LULGWrsd8Caxdfg1dFOdGsHbF10Pg8RVLJjaSDMOKuh1RAlxeOP0bCyp3Y7FhfGGjwNlVn6X0B062dMnDtHg0YFMS7Di16UGDD06cYFlJUYKovNsmW9Oza2Wij5dQuEM/Vt/pQ9OE2Gka0um28ETjpuqkYFldbLwgMF0tATHHDKQ9Jx61UZ0ZQvecSrpDPGxfbW82fl+sUU4eOxVJB7vtffe1WvNT5EswKFGorqGwUiOtOtul2oe7zsv1ZI5ntH+cLHgbcA24TsHTerLJNZ7QL3QhSCYH1v9oTN4bNdNFmqkbZPufqfNFt1jfTW1zrh9WWrZBWwTTvraKRXlLKOdvc79Pug4wEx/RwGcuigRwBW9qW5uLR68ejv2zHsXjs5DFh13ZvF+1fcVeItw+Kw0LXefUcuoj0GxtmEVru3vAx/U6RBs2AuT0bwq7JILoWC7pa3UOvuZ3srCxglbazHjvd8Pt+dw8XA47c/jPM83SuIf4/P+tF3WXy/7TlYNKr2FblVvbVbjQqtcXWR5fUUvzPqZVVk9Eu98fV2vj9k+Fq9i422pssdwstPun6TXcVTv/RjPd/WBx23oLwC28yENHYcoMSX9b8cJHfgQJ+ftbbldUQ43m8XDqvHHV+qGjh/EsUv1FVZ9LVv1yFw+ylf5KIj95rcuxOWT03Jxaw/kPcLPijkhDcP2F+7fJ9YwSWsg9N2B/F3/U+E7ZAjxyxDilyHEL0OIX4YQvwwhfhlC/DKE+GUI8csQ4pchxC9DiF+GEL8MIX4ZQvwyhPhlCPHLEOKXIcQvQ4hfhhC/DCF+GUL8MoT4ZQjxyxDilyHEL0OIX4YQvwwhfhlC/DKE+GUI8csQ4pchxC9DiF+GEL8MIX4ZQvwyhPhlCPHLEOKXIcQvQ4hf/wXC8f/tpwH/iFhutX87+YfJz6yEfvmPJiISoYllp0O//IlfzKepbdl2kuWjn6k8S2z7X4y8luRgxTc9AAAAAElFTkSuQmCC"
+    },
+    {
+      "id": "3",
+      "category": "Accessories",
+      "name": "Dunzo",
+      "logo": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "4",
+      "category": "Fashion",
+      "name": "Myntra",
+      "logo": "data:image/png;base64,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"
+    },
+    {
+      "id": "4",
+      "category": "Electronics",
+      "name": "Cred",
+      "logo": "data:image/png;base64,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"
+    }
+  ],
+  "Cartegory": [
+    {
+      "id": "1",
+      "name": "Men"
+    },
+    {
+      "id": "2",
+      "name": "Women"
+    },
+    {
+      "id": "3",
+      "name": "Accessories"
+    },
+    {
+      "id": "4",
+      "name": "Electronics"
+    },
+    {
+      "id": "5",
+      "name": "Fashion"
+    },
+    {
+      "id": "6",
+      "name": "Footwears"
+    },
+    {
+      "id": "7",
+      "name": "Food"
+    }
+  ]
 }

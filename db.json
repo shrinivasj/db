@@ -1,21 +1,10 @@
 {
   "seller": [
   ],
-  "products": [
-    {
-      "productname": "camera",
-      "productid": "1",
-      "price": "35000",
-      "productimg": "https://rukminim2.flixcart.com/image/200/200/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70",
-      "id": 1,
-      "catergory": "Electronics"
-    }
-  ],
-  "users": [
-  ],
+  "products": [],
+  "users": [],
   "cart": [],
-  "orders": [
-  ],
+  "orders": [],
   "brand": [
     {
       "id": "1",

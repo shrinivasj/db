@@ -85,7 +85,8 @@
       "price": "35000",
       "productimg": "https://rukminim2.flixcart.com/image/200/200/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70",
       "id": 1,
-      "catergory": "Electronics"
+      "catergory": "Electronics",
+      "brand":"Zomato"
     },
     {
       "productname": "lens",
@@ -93,7 +94,8 @@
       "price": "45000",
       "productimg": "https://rukminim2.flixcart.com/image/200/200/xif0q/monitor/x/a/z/-original-imagr73bhwneffva.jpeg?q=70",
       "id": 2,
-      "catergory": "Fashion"
+      "catergory": "Fashion",
+      "brand":"Paytm"
     },
     {
       "productname": "iphone",
@@ -101,7 +103,8 @@
       "price": "35000",
       "productimg": "https://rukminim2.flixcart.com/image/312/312/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
       "id": 5,
-      "catergory": "Electronics"
+      "catergory": "Electronics",
+      "brand":"Paytm"
     },
     {
       "productname": "camera",
@@ -109,7 +112,8 @@
       "price": "35000",
       "productimg": "https://rukminim2.flixcart.com/image/312/312/ktaeqvk0/tripod/tripod/z/c/u/buff42-buy-hot-selling-tripod-stand-with-clip-bag-tripod-stand-original-imag6z5ksvejg6ph.jpeg?q=70",
       "id": 1,
-      "catergory": "Electronics"
+      "catergory": "Electronics",
+      "brand":"Paytm"
     },
     {
       "productname": "lens",
@@ -117,7 +121,8 @@
       "price": "45000",
       "productimg": "https://rukminim1.flixcart.com/flap/170/170/image/20c224cd52ae7a87.jpg?q=80",
       "id": 2,
-      "catergory": "Fashion"
+      "catergory": "Fashion",
+      "brand":"Dunzo"
     },
     {
       "productname": "iphone",
@@ -125,7 +130,8 @@
       "price": "35000",
       "productimg": "https://rukminim1.flixcart.com/image/170/170/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=80",
       "id": 5,
-      "catergory": "Electronics"
+      "catergory": "Electronics",
+      "brand":"Myntra"
     }
   ],
   "users": [

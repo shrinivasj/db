@@ -92,29 +92,20 @@
     },
     {
       "productname": "lens",
-      "productid": "3",
+      "productid": "2",
       "price": "45000",
-      "productimg": "https://rukminim2.flixcart.com/image/200/200/xif0q/monitor/x/a/z/-original-imagr73bhwneffva.jpeg?q=70",
+      "productimg": "https://images.unsplash.com/photo-1608186336271-53313eeaf864?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
       "id": 2,
-      "catergory": "Fashion",
-      "brand":"Paytm",
-      "description":"Simply for first-time DSLR user Equipped with a grip that allows a steady hold on the camera, an optical viewfinder that enables the quick capture of fleeting moments, and a main dial for quick function switching, the EOS 3000D offers new camera users the quintessential DSLR experience. The 18megapixel APS-C-size CMOS sensor is about 25 times larger than the sensor used in smartphone cameras."
-    },
-    {
-      "productname": "iphone",
-      "productid": "4",
-      "price": "35000",
-      "productimg": "https://rukminim2.flixcart.com/image/312/312/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
-      "id": 5,
       "catergory": "Electronics",
-      "brand":"Paytm"
+      "brand":"Nikon",
+      "description":"Simply for first-time DSLR user Equipped with a grip that allows a steady hold on the camera, an optical viewfinder that enables the quick capture of fleeting moments, and a main dial for quick function switching, the EOS 3000D offers new camera users the quintessential DSLR experience. The 18megapixel APS-C-size CMOS sensor is about 25 times larger than the sensor used in smartphone cameras."
     },
     {
       "productname": "camera",
       "productid": "1",
       "price": "35000",
       "productimg": "https://rukminim2.flixcart.com/image/312/312/ktaeqvk0/tripod/tripod/z/c/u/buff42-buy-hot-selling-tripod-stand-with-clip-bag-tripod-stand-original-imag6z5ksvejg6ph.jpeg?q=70",
-      "id": 1,
+      "id": 3,
       "catergory": "Electronics",
       "brand":"Paytm"
     },
@@ -123,7 +114,7 @@
       "productid": "3",
       "price": "45000",
       "productimg": "https://rukminim1.flixcart.com/flap/170/170/image/20c224cd52ae7a87.jpg?q=80",
-      "id": 2,
+      "id": 4,
       "catergory": "Fashion",
       "brand":"Dunzo"
     },
